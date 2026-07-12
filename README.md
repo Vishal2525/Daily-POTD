@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vishal2525/Daily-POTD/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vishal2525/Daily-POTD/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/Vishal2525/Daily-POTD/tree/master/2836-maximize-value-of-function-in-a-ball-passing-game) |
+| [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Vishal2525/Daily-POTD/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Vishal2525/Daily-POTD/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vishal2525/Daily-POTD/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Vishal2525/Daily-POTD/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Vishal2525/Daily-POTD/tree/master/1301-number-of-paths-with-max-score) |
 | [2063-vowels-of-all-substrings](https://github.com/Vishal2525/Daily-POTD/tree/master/2063-vowels-of-all-substrings) |
 | [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/Vishal2525/Daily-POTD/tree/master/2836-maximize-value-of-function-in-a-ball-passing-game) |
+| [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Vishal2525/Daily-POTD/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vishal2525/Daily-POTD/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Combinatorics
 |  |
@@ -111,9 +113,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/Vishal2525/Daily-POTD/tree/master/2836-maximize-value-of-function-in-a-ball-passing-game) |
+| [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Vishal2525/Daily-POTD/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vishal2525/Daily-POTD/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Vishal2525/Daily-POTD/tree/master/2685-count-the-number-of-complete-components) |
+| [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Vishal2525/Daily-POTD/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
+## Tree
+|  |
+| ------- |
+| [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Vishal2525/Daily-POTD/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 <!---LeetCode Topics End-->

@@ -26,7 +26,7 @@ public:
         for (int node=0; node<n; node++){
             ll sum=node;
             int currNode=node;
-            for (int j=0; j<col; j++){
+            for (int j=col-1; j>=0; j--){
                 if (k&(1LL<<j)){
                     sum+=cost[currNode][j];
                     currNode=up[currNode][j];

@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Vishal2525/Daily-POTD/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vishal2525/Daily-POTD/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vishal2525/Daily-POTD/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/Vishal2525/Daily-POTD/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vishal2525/Daily-POTD/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/Vishal2525/Daily-POTD/tree/master/2836-maximize-value-of-function-in-a-ball-passing-game) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Vishal2525/Daily-POTD/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
@@ -124,5 +125,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/Vishal2525/Daily-POTD/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Vishal2525/Daily-POTD/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/Vishal2525/Daily-POTD/tree/master/2509-cycle-length-queries-in-a-tree) |
 <!---LeetCode Topics End-->

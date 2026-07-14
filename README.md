@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Vishal2525/Daily-POTD/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Vishal2525/Daily-POTD/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vishal2525/Daily-POTD/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Vishal2525/Daily-POTD/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Vishal2525/Daily-POTD/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vishal2525/Daily-POTD/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2063-vowels-of-all-substrings](https://github.com/Vishal2525/Daily-POTD/tree/master/2063-vowels-of-all-substrings) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Vishal2525/Daily-POTD/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2063-vowels-of-all-substrings](https://github.com/Vishal2525/Daily-POTD/tree/master/2063-vowels-of-all-substrings) |
 | [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/Vishal2525/Daily-POTD/tree/master/2836-maximize-value-of-function-in-a-ball-passing-game) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/Vishal2525/Daily-POTD/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Vishal2525/Daily-POTD/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vishal2525/Daily-POTD/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Combinatorics
 |  |
@@ -131,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/Vishal2525/Daily-POTD/tree/master/2509-cycle-length-queries-in-a-tree) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Vishal2525/Daily-POTD/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->

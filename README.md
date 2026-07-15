@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2063-vowels-of-all-substrings](https://github.com/Vishal2525/Daily-POTD/tree/master/2063-vowels-of-all-substrings) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Vishal2525/Daily-POTD/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Vishal2525/Daily-POTD/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -138,4 +139,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Vishal2525/Daily-POTD/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Vishal2525/Daily-POTD/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->

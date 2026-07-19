@@ -7,6 +7,7 @@ public:
 
         stack<int>st;
         vector<bool>isStack(26,0);
+
         for (int i=0; i<n; i++){
             freq[s[i]-'a']--;
             
@@ -24,7 +25,6 @@ public:
         }
 
         string ans="";
-        unordered_map<char,bool>mp;
 
         while (!st.empty()){
             ans+=s[st.top()];
